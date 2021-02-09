@@ -30,10 +30,10 @@ use_shadow = ON
 use_colors = ON
 
 # Screen color
-screen_color = (RED,BLACK,ON)
+screen_color = (BLUE,BLACK,ON)
 
 # Shadow color
-shadow_color = (BLACK,RED,ON)
+shadow_color = (BLACK,BLUE,ON)
 
 # Dialog box color
 dialog_color = (BLACK,WHITE,OFF)
